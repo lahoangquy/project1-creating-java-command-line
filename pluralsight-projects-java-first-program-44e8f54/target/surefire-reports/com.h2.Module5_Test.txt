@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------
+Test set: com.h2.Module5_Test
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 9, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in com.h2.Module5_Test
+m5_09_testFinanceMainMethodWorksCorrectly  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Finance must exist ==> expected: <true> but was: <false>
+	at com.h2.Module5_Test.m5_09_testFinanceMainMethodWorksCorrectly(Module5_Test.java:301)
+
+m5_06_testExecuteCommandExistence  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Finance should be present ==> expected: <true> but was: <false>
+	at com.h2.Module5_Test.m5_06_testExecuteCommandExistence(Module5_Test.java:198)
+
+m5_07_testExecuteCommandExistenceForCorrectness  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Finance must exist ==> expected: <true> but was: <false>
+	at com.h2.Module5_Test.m5_07_testExecuteCommandExistenceForCorrectness(Module5_Test.java:220)
+
+m5_03_testCommandsToUsage  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Finance should be present ==> expected: <true> but was: <false>
+	at com.h2.Module5_Test.m5_03_testCommandsToUsage(Module5_Test.java:100)
+
+m5_05_testValidateCommandArgumentsCorrectness  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Finance should be present ==> expected: <true> but was: <false>
+	at com.h2.Module5_Test.m5_05_testValidateCommandArgumentsCorrectness(Module5_Test.java:153)
+
+m5_04_testValidateCommandArgumentsExistence  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Finance should be present ==> expected: <true> but was: <false>
+	at com.h2.Module5_Test.m5_04_testValidateCommandArgumentsExistence(Module5_Test.java:133)
+
+m05_02_testCommandConstantFields  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Finance should be present ==> expected: <true> but was: <false>
+	at com.h2.Module5_Test.m05_02_testCommandConstantFields(Module5_Test.java:66)
+
+m5_01_assertFinanceClassExistence  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Finance should be present ==> expected: <true> but was: <false>
+	at com.h2.Module5_Test.m5_01_assertFinanceClassExistence(Module5_Test.java:59)
+
+m5_08_testFinanceMainMethodExists  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Finance must exist ==> expected: <true> but was: <false>
+	at com.h2.Module5_Test.m5_08_testFinanceMainMethodExists(Module5_Test.java:279)
+

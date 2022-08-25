@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: com.h2.Module6_Test
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.h2.Module6_Test
+m6_02_testGetLongValueExistence  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.Utilities should be present ==> expected: <true> but was: <false>
+	at com.h2.Module6_Test.m6_02_testGetLongValueExistence(Module6_Test.java:36)
+
+m6_05_testGetFloatValueExistenceAndCorrectness  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.Utilities should be present ==> expected: <true> but was: <false>
+	at com.h2.Module6_Test.m6_05_testGetFloatValueExistenceAndCorrectness(Module6_Test.java:112)
+
+m6_04_testGetIntValueExistenceAndCorrectness  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.Utilities should be present ==> expected: <true> but was: <false>
+	at com.h2.Module6_Test.m6_04_testGetIntValueExistenceAndCorrectness(Module6_Test.java:82)
+
+m6_01_assertFinanceClassExistence  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.Utilities should be present ==> expected: <true> but was: <false>
+	at com.h2.Module6_Test.m6_01_assertFinanceClassExistence(Module6_Test.java:28)
+
+m6_06_testMainMethodPrintsCorrectMortgageAmount  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.Utilities must exist ==> expected: <true> but was: <false>
+	at com.h2.Module6_Test.m6_06_testMainMethodPrintsCorrectMortgageAmount(Module6_Test.java:143)
+
+m6_03_testGetLongValueCorrectness  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.Utilities should be present ==> expected: <true> but was: <false>
+	at com.h2.Module6_Test.m6_03_testGetLongValueCorrectness(Module6_Test.java:56)
+

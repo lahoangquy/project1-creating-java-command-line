@@ -1,0 +1,60 @@
+-------------------------------------------------------------------------------
+Test set: com.h2.Module3_Test
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 14, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in com.h2.Module3_Test
+m3_10_testRemainingDaysInMonthWorksCorrectly  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.SavingsCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module3_Test.m3_10_testRemainingDaysInMonthWorksCorrectly(Module3_Test.java:252)
+
+m3_02_testExistenceOfPrivateFields  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.SavingsCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module3_Test.m3_02_testExistenceOfPrivateFields(Module3_Test.java:68)
+
+m3_11_testCalculateExists  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.SavingsCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module3_Test.m3_11_testCalculateExists(Module3_Test.java:277)
+
+m3_05_testSumOfCreditsExists  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.SavingsCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module3_Test.m3_05_testSumOfCreditsExists(Module3_Test.java:136)
+
+m3_08_testSumOfDebitsWorksCorrectly  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.SavingsCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module3_Test.m3_08_testSumOfDebitsWorksCorrectly(Module3_Test.java:198)
+
+m3_09_testRemainingDaysInMonthExists  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.SavingsCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module3_Test.m3_09_testRemainingDaysInMonthExists(Module3_Test.java:228)
+
+m3_03_testConstructor  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.SavingsCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module3_Test.m3_03_testConstructor(Module3_Test.java:85)
+
+m3_14_testMainMethodPrintsCorrectOutput  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.SavingsCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module3_Test.m3_14_testMainMethodPrintsCorrectOutput(Module3_Test.java:346)
+
+m3_06_testSumOfCreditsWorksCorrectly  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.SavingsCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module3_Test.m3_06_testSumOfCreditsWorksCorrectly(Module3_Test.java:152)
+
+m3_13_testMainExists  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.SavingsCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module3_Test.m3_13_testMainExists(Module3_Test.java:322)
+
+m3_07_testSumOfDebitsExists  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.SavingsCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module3_Test.m3_07_testSumOfDebitsExists(Module3_Test.java:182)
+
+m3_04_testFieldsValueSetWhenConstructorCalled  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.SavingsCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module3_Test.m3_04_testFieldsValueSetWhenConstructorCalled(Module3_Test.java:103)
+
+m03_01_testSavingsCalculatorExists  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.SavingsCalculator must be created. ==> expected: <true> but was: <false>
+	at com.h2.Module3_Test.m03_01_testSavingsCalculatorExists(Module3_Test.java:62)
+
+m3_12_testCalculateWorksCorrectly  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.SavingsCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module3_Test.m3_12_testCalculateWorksCorrectly(Module3_Test.java:294)
+

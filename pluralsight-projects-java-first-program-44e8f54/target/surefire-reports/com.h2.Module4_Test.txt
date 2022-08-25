@@ -1,0 +1,56 @@
+-------------------------------------------------------------------------------
+Test set: com.h2.Module4_Test
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 13, Errors: 0, Skipped: 0, Time elapsed: 0.012 s <<< FAILURE! - in com.h2.Module4_Test
+m4_08_testExistenceOfCalculateMonthlyPayment  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.MortgageCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module4_Test.m4_08_testExistenceOfCalculateMonthlyPayment(Module4_Test.java:246)
+
+m04_01_testMortgageCalculatorExists  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.MortgageCalculator must be created. ==> expected: <true> but was: <false>
+	at com.h2.Module4_Test.m04_01_testMortgageCalculatorExists(Module4_Test.java:60)
+
+m4_03_testMortgageConstructorAndCorrectness  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.MortgageCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module4_Test.m4_03_testMortgageConstructorAndCorrectness(Module4_Test.java:94)
+
+m4_05_testNumberOfPaymentsCorrectness  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.MortgageCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module4_Test.m4_05_testNumberOfPaymentsCorrectness(Module4_Test.java:154)
+
+m4_13_testMainMethodPrintsCorrectMortgageAmount  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.MortgageCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module4_Test.m4_13_testMainMethodPrintsCorrectMortgageAmount(Module4_Test.java:398)
+
+m4_10_testExistenceOfToString  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.MortgageCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module4_Test.m4_10_testExistenceOfToString(Module4_Test.java:309)
+
+m4_09_testCalculateMonthlyPaymentCorrectness  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.MortgageCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module4_Test.m4_09_testCalculateMonthlyPaymentCorrectness(Module4_Test.java:262)
+
+m4_04_testExistenceOfNumberOfPayments  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.MortgageCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module4_Test.m4_04_testExistenceOfNumberOfPayments(Module4_Test.java:138)
+
+m4_07_testMonthlyInterestRateCorrectness  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.MortgageCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module4_Test.m4_07_testMonthlyInterestRateCorrectness(Module4_Test.java:208)
+
+m4_11_testToStringCorrectness  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.MortgageCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module4_Test.m4_11_testToStringCorrectness(Module4_Test.java:325)
+
+m04_02_testExistenceOfPrivateFields  Time elapsed: 0.007 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.MortgageCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module4_Test.m04_02_testExistenceOfPrivateFields(Module4_Test.java:66)
+
+m4_12_testMainMethodExists  Time elapsed: 0.003 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.MortgageCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module4_Test.m4_12_testMainMethodExists(Module4_Test.java:375)
+
+m4_06_testExistenceOfMonthlyInterestRate  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: com.h2.MortgageCalculator must exist ==> expected: <true> but was: <false>
+	at com.h2.Module4_Test.m4_06_testExistenceOfMonthlyInterestRate(Module4_Test.java:192)
+
